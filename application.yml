@@ -1,6 +1,6 @@
 spring:
   application:
-    name: config-serve
+    name: config-server
 
 eureka:
       instance:
